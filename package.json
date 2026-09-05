@@ -1,7 +1,7 @@
 {
   "name": "gofile-proxify",
   "version": "1.0.1",
-  "description": "Sebuah pustaka Node.js untuk mengunduh file dari Gofile.io dengan dukungan proxy, rotasi kumpulan proxy otomatis, dan pelacakan kemajuan..",
+  "description": "A Node.js library for downloading files from Gofile.io with proxy support, automatic proxy pool rotation, and progress tracking..",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
